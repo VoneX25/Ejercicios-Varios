@@ -4,7 +4,7 @@ public class PruebaEclipseconGitHub {
 
 	public static void main(String[] args) {
 		System.out.println("\tEsta va a ser mi primera pruba utilizando GitHub.");
-
+		System.out.println("\tEsta va a ser mi Segunda pruba utilizando GitHub.");
 	}
 
 }
